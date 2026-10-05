@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&pause=1400&color=3B82F6&center=true&vCenter=true&width=760&height=40&lines=Software+Engineer+%7C+AI+%2F+ML+%7C+Cloud+Systems;MS+Computer+Science+%40+Northeastern;Former+Back-End+Developer+%40+IBM;Open+to+Spring+%2F+Summer+2027+co-ops+%26+internships" alt="Animated headline" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Spring%20%2F%20Summer%202027%20Co--ops%20%26%20Internships-2ea44f?style=for-the-badge" alt="Open to Spring and Summer 2027 co-ops and internships" />
-</p>
+</p> -->
 <p align="center">
   <a href="mailto:sunkara.sant@northeastern.edu"><img src="https://img.shields.io/badge/Email-sunkara.sant%40northeastern.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/santosh-sunkara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
